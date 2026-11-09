@@ -14,6 +14,7 @@
   "rawSize": 7139328,
   "dbSha256": "d0f0fb399ac0552b71f077edaec85ac8f15a6b36b1fb8f3c448c6f8fa11a8ee0",
   "mirrors": [
+    "https://gitee.com/cs2k3/ffxiv-msg-data/releases/download/data/",
     "https://gitee.com/cs2k3/ffxiv-msg-data/raw/main/"
   ]
 }
