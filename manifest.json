@@ -1,0 +1,16 @@
+{
+  "version": "国服 7.57 · 2026.10.06 · 935169e",
+  "versionCode": 20261006,
+  "patch": "7.57",
+  "unpackDate": "2026.10.06",
+  "commit": "935169e",
+  "builtAt": "2026-11-09 18:31:38",
+  "phrases": 1541,
+  "items": 51225,
+  "name": "ffxiv-data.db",
+  "format": 1,
+  "size": 1718918,
+  "sha256": "3ff99308b1a34cd410c2e6ccadd67abedbabd65c5bb78c609518c0354fa3cb22",
+  "rawSize": 7139328,
+  "dbSha256": "d0f0fb399ac0552b71f077edaec85ac8f15a6b36b1fb8f3c448c6f8fa11a8ee0"
+}
