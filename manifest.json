@@ -1,6 +1,6 @@
 {
-  "version": "国服 7.57 · 2026.10.06 · 935169e",
-  "versionCode": 20261006,
+  "version": "国服 7.57 · 2026.10.06 · 935169e · r1",
+  "versionCode": 2026100601,
   "patch": "7.57",
   "unpackDate": "2026.10.06",
   "commit": "935169e",
@@ -8,10 +8,10 @@
   "items": 51225,
   "name": "ffxiv-data.db",
   "format": 1,
-  "size": 1718889,
-  "sha256": "a9875ae31e2b638d927320f3eaf36c7db3f0314e37140a589fd1868ae4e96b9e",
-  "rawSize": 7139328,
-  "dbSha256": "ce6489734fb50ea47519c4b5023ad4b3532074ae460cc3e0e9b72ca2e45f68f3",
+  "size": 2447396,
+  "sha256": "11585f13db37fb72656391bdbfc08d04065070aa494ff6ca393d74349e405033",
+  "rawSize": 10252288,
+  "dbSha256": "d539e781f773b7c2eb8611a8c6414555959678c984ffc090a5a376de362f975a",
   "mirrors": [
     "https://gitee.com/cs2k3/ffxiv-msg-data/releases/download/data/",
     "https://gitee.com/cs2k3/ffxiv-msg-data/raw/main/"
